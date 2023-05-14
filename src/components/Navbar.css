@@ -1,0 +1,21 @@
+.navbar {
+  background: rgba(0, 61, 74, 1);
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navlink {
+  color: #f9f9f9;
+  font-weight: bold;
+  margin-left: 1rem;
+  text-decoration: none;
+}
+
+.avatar img {
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+  cursor: pointer;
+}
